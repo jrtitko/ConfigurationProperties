@@ -1,0 +1,16 @@
+account:
+  account-mapping:
+    usbank:
+      account: 11111
+      location: 12345
+    fifththird:
+      account: 22222
+      location: 98765
+
+customer:
+  name: Joe Smith
+  street:
+    - 111 Main St
+    - Suite 100
+  city: Columbus
+  state: Ohio
